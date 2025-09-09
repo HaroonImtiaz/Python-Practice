@@ -1,1 +1,1 @@
-print("haroon imtiaz")
+print("haroon ",20,"kotli")
